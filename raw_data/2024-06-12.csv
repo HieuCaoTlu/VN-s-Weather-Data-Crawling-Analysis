@@ -1,0 +1,299 @@
+﻿ThoiGian,TinhThanh,KhuVuc,NhietDo (°C),LuongMua (mm),DoAm (%),DoAmTrongNha (%),KhiAp (mb),MatDoMay (%),TamNhin (km),AQI,TrangThaiKhongKhi,PM2_TrangThai,PM2_ChiSo,PM2_Matdo(µg/m³),PM10_TrangThai,PM10_ChiSo,PM10_Matdo(µg/m³),SO2_TrangThai,SO2_ChiSo,SO2_Matdo(µg/m³),NO2_TrangThai,NO2_ChiSo,NO2_Matdo(µg/m³)
+2024-06-12 17:15:00.331472+07:00,An Giang,Châu Đốc,32°C,4.8,69%,69% (Dangerously Humid),↔ 1012 mb,91%,24 km,27,Fair,Fair,27,8 µg/m³,Excellent,18,14 µg/m³,Excellent,15,45 µg/m³,Excellent,7,3 µg/m³
+2024-06-12 17:15:05.720495+07:00,An Giang,Chợ Mới,31°C,0.0,74%,74% (Dangerously Humid),↔ 1012 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:15:08.336271+07:00,An Giang,Long Xuyên,31°C,0.0,74%,74% (Dangerously Humid),↔ 1012 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:15:10.741066+07:00,An Giang,Phú Châu,31°C,2.5,70%,70% (Dangerously Humid),↑ 1012 mb,90%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,13 µg/m³,Excellent,15,44 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:15:13.201901+07:00,An Giang,Tịnh Biên,32°C,2.9,67%,67% (Extremely Humid),↔ 1012 mb,90%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:15:15.885289+07:00,An Giang,Tri Tôn,32°C,2.9,67%,67% (Extremely Humid),↔ 1012 mb,90%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:15:18.325153+07:00,An Giang,Xóm Khánh Hòa,32°C,2.5,67%,67% (Extremely Humid),↑ 1012 mb,89%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,13 µg/m³,Excellent,15,44 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:15:20.869046+07:00,Bà Rịa - Vũng Tàu,Ấp Bình Châu,33°C,0.4,65%,65% (Dangerously Humid),↔ 1012 mb,30%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,54 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:15:23.399728+07:00,Bà Rịa - Vũng Tàu,Bà Rịa,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:26.133014+07:00,Bà Rịa - Vũng Tàu,Châu Thành,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:28.681268+07:00,Bà Rịa - Vũng Tàu,Chợ Phước Hải,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:30.987708+07:00,Bà Rịa - Vũng Tàu,Cỏ Ống,31°C,0.0,69%,69% (Extremely Humid),↑ 1012 mb,10%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,24,19 µg/m³,Fair,20,59 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:15:34.100146+07:00,Bà Rịa - Vũng Tàu,Đất Đỏ,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:36.534147+07:00,Bà Rịa - Vũng Tàu,Grande Village de Poulo Condore,31°C,0.0,69%,69% (Extremely Humid),↑ 1012 mb,10%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,24,19 µg/m³,Fair,20,59 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:15:38.930615+07:00,Bà Rịa - Vũng Tàu,Long Lễ,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:41.370164+07:00,Bà Rịa - Vũng Tàu,Vũng Tàu,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:44.000001+07:00,Bà Rịa - Vũng Tàu,Xã Bình Giã,33°C,0.4,65%,65% (Dangerously Humid),↔ 1012 mb,30%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,54 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:15:46.531605+07:00,Bắc Giang,Bắc Giang,35°C,0.0,64%,64% (Dangerously Humid),↑ 1005 mb,30%,24 km,27,Fair,Fair,27,70 µg/m³,Fair,24,6 µg/m³,Fair,23,18 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:15:49.394023+07:00,Bắc Kạn,Bắc Kạn,32°C,1.2,73%,73% (Dangerously Humid),↔ 1006 mb,30%,24 km,26,Fair,Fair,26,7 µg/m³,Fair,20,15 µg/m³,Excellent,17,52 µg/m³,Excellent,9,4 µg/m³
+2024-06-12 17:15:51.703827+07:00,Bạc Liêu,Bạc Liêu,33°C,0.9,60%,60% (Extremely Humid),↔ 1012 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,55 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:15:53.997130+07:00,Bắc Ninh,Bắc Ninh,35°C,0.5,61%,61% (Dangerously Humid),↑ 1005 mb,50%,24 km,29,Fair,Fair,29,72 µg/m³,Fair,25,20 µg/m³,Fair,22,6 µg/m³,Excellent,14,14 µg/m³
+2024-06-12 17:15:56.514069+07:00,Bến Tre,Bến Tre,31°C,2.2,75%,75% (Dangerously Humid),↔ 1012 mb,30%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,49 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:15:59.397611+07:00,Bình Định,An Lão,33°C,0.0,66%,66% (Dangerously Humid),↓ 1008 mb,10%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,25,67 µg/m³,Fair,21,16 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:02.748247+07:00,Bình Định,Bồng Sơn,33°C,0.0,66%,66% (Dangerously Humid),↓ 1008 mb,10%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,25,67 µg/m³,Fair,21,16 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:05.627186+07:00,Bình Định,Chấn An,30°C,0.0,62%,62% (Very Humid),↓ 1009 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,25,67 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:08.176682+07:00,Bình Định,Định Bình,35°C,0.0,49%,49% (Extremely Humid),↓ 1010 mb,1%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,63 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:10.804220+07:00,Bình Định,Dương Liễu,30°C,0.0,62%,62% (Very Humid),↓ 1009 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,25,67 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:13.783355+07:00,Bình Định,Hữu Giang,35°C,0.0,49%,49% (Extremely Humid),↓ 1010 mb,1%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,63 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:16.538444+07:00,Bình Định,Phú An,35°C,0.0,49%,49% (Extremely Humid),↓ 1010 mb,1%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,63 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:19.115867+07:00,Bình Định,Phù Cát,30°C,0.0,62%,62% (Very Humid),↓ 1009 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,25,67 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:21.643844+07:00,Bình Định,Phú Xuân,33°C,0.0,66%,66% (Dangerously Humid),↓ 1008 mb,10%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,25,67 µg/m³,Fair,21,16 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:24.494673+07:00,Bình Định,Quy Nhơn,33°C,0.0,65%,65% (Dangerously Humid),↔ 1010 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,25,67 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:27.081978+07:00,Bình Định,Tam Quan,33°C,0.0,66%,66% (Dangerously Humid),↓ 1008 mb,10%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,25,67 µg/m³,Fair,21,16 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:29.783575+07:00,Bình Định,Vân Canh,34°C,0.0,56%,56% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:31.996453+07:00,Bình Định,Văn Thiên,30°C,0.0,62%,62% (Very Humid),↓ 1009 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,25,67 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:34.602840+07:00,Bình Định,Vĩnh Phúc,35°C,0.0,49%,49% (Extremely Humid),↓ 1010 mb,1%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,63 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:16:36.785624+07:00,Bình Dương,Ấp Bàu Bàng,32°C,1.7,69%,69% (Dangerously Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,45 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:16:39.154493+07:00,Bình Dương,Dầu Tiếng,32°C,0.0,66%,66% (Extremely Humid),↔ 1008 mb,10%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,13 µg/m³,Excellent,15,44 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:16:41.592195+07:00,Bình Dương,Dĩ An,32°C,0.8,70%,70% (Dangerously Humid),↔ 1012 mb,30%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,20,15 µg/m³,Excellent,15,45 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:16:44.257687+07:00,Bình Dương,Tân Uyên,32°C,0.8,70%,70% (Dangerously Humid),↔ 1012 mb,30%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,20,15 µg/m³,Excellent,15,45 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:16:46.972116+07:00,Bình Dương,Thủ Dầu Một,32°C,1.7,69%,69% (Dangerously Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,45 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:16:49.496082+07:00,Bình Dương,Xóm Bến Oản,32°C,1.7,69%,69% (Dangerously Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,45 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:16:52.001923+07:00,Bình Dương,Xóm Trùm Tháp,32°C,1.7,69%,69% (Dangerously Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,45 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:16:54.635176+07:00,Bình Phước,Ấp Lộc Thạnh,31°C,0.0,71%,71% (Dangerously Humid),↔ 1012 mb,31%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,13 µg/m³,Excellent,16,48 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:16:56.954707+07:00,Bình Phước,Bà Rá,30°C,1.7,69%,69% (Extremely Humid),↔ 1012 mb,30%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,14 µg/m³,Excellent,16,49 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:16:59.630767+07:00,Bình Phước,Cư Xá Công Chức,29°C,0.7,71%,71% (Extremely Humid),↓ 1012 mb,0%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,50 µg/m³,Excellent,17,13 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:02.058553+07:00,Bình Phước,Đăng Bóa,29°C,1.5,69%,69% (Extremely Humid),↓ 1013 mb,0%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,13 µg/m³,Excellent,17,51 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:04.974387+07:00,Bình Phước,Địa Điểm Bunard,30°C,1.7,69%,69% (Extremely Humid),↔ 1012 mb,30%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,14 µg/m³,Excellent,16,49 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:17:07.389084+07:00,Bình Phước,Đồng Phú,32°C,0.5,66%,66% (Extremely Humid),↔ 1012 mb,31%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,16,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:17:10.294587+07:00,Bình Phước,Đồng Xoài,32°C,0.5,66%,66% (Extremely Humid),↔ 1012 mb,31%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,16,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:17:13.249885+07:00,Bình Phước,Hớn Quản,31°C,5.8,67%,67% (Extremely Humid),↑ 1012 mb,11%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,13 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:17:15.747822+07:00,Bình Phước,Phước Bình,30°C,1.7,69%,69% (Extremely Humid),↔ 1012 mb,30%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,14 µg/m³,Excellent,16,49 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:17:18.368956+07:00,Bình Phước,Phước Hòa,29°C,0.7,71%,71% (Extremely Humid),↓ 1012 mb,0%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,50 µg/m³,Excellent,17,13 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:20.874820+07:00,Bình Thuận,Ấp Long Hòa,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:23.508790+07:00,Bình Thuận,Ấp Rừng Lá,31°C,0.8,68%,68% (Extremely Humid),↔ 1012 mb,11%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,52 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:17:26.202171+07:00,Bình Thuận,Ấp Tam Tân,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:28.934277+07:00,Bình Thuận,Ấp Thiện Ái,35°C,0.0,56%,56% (Extremely Humid),↓ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Fair,20,60 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:17:31.377675+07:00,Bình Thuận,Bảo Lộc,27°C,0.0,70%,70% (Very Humid),↓ 1013 mb,0%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,21,16 µg/m³,Excellent,18,54 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:34.235292+07:00,Bình Thuận,Da Hoa,29°C,0.0,69%,69% (Extremely Humid),↓ 1012 mb,0%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,15 µg/m³,Excellent,17,51 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:17:37.022350+07:00,Bình Thuận,Dinh Ðiền Dak Ménou,31°C,0.8,68%,68% (Extremely Humid),↔ 1012 mb,11%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,52 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:17:39.745039+07:00,Bình Thuận,Hải Long,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:42.775463+07:00,Bình Thuận,Hàm Tân,33°C,0.4,65%,65% (Dangerously Humid),↔ 1012 mb,30%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,54 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:17:45.060752+07:00,Bình Thuận,Hàm Thuận Bắc,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:47.905584+07:00,Bình Thuận,Hòa Đa,35°C,0.0,56%,56% (Extremely Humid),↓ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Fair,20,60 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:17:50.700401+07:00,Bình Thuận,Kê Gà,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:17:53.281377+07:00,Bình Thuận,Lagi,33°C,0.4,65%,65% (Dangerously Humid),↔ 1012 mb,30%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,54 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:17:56.132129+07:00,Bình Thuận,Phan Lý,35°C,0.0,56%,56% (Extremely Humid),↓ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Fair,20,60 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:17:58.586591+07:00,Bình Thuận,Phan Thiết,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:18:01.192391+07:00,Bình Thuận,Phò Trì,33°C,0.4,65%,65% (Dangerously Humid),↔ 1012 mb,30%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,54 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:18:03.787250+07:00,Bình Thuận,Tuy Phong,35°C,0.0,56%,56% (Extremely Humid),↓ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Fair,20,60 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:18:06.519159+07:00,Bình Thuận,Xã Hiêu Tin,31°C,0.8,68%,68% (Extremely Humid),↔ 1012 mb,11%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,52 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:18:09.351469+07:00,Bình Thuận,Xã Mường Mán,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:18:12.072887+07:00,Bình Thuận,Xã Phù Sung,35°C,0.0,49%,49% (Extremely Humid),↔ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Excellent,19,58 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:18:14.590988+07:00,Bình Thuận,Xã Sông Lũy,35°C,0.0,56%,56% (Extremely Humid),↓ 1011 mb,10%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,24,19 µg/m³,Fair,20,60 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:18:17.151178+07:00,Cà Mau,Cà Mau,32°C,0.0,60%,60% (Extremely Humid),↔ 1012 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,55 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:18:19.484298+07:00,Cần Thơ,Cần Thơ,31°C,3.1,69%,69% (Extremely Humid),↔ 1012 mb,23%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,48 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:18:22.221642+07:00,Cao Bằng,Cao Bằng,32°C,0.4,76%,76% (Dangerously Humid),↔ 1006 mb,10%,24 km,13,Excellent,Excellent,13,39 µg/m³,Excellent,6,3 µg/m³,Excellent,5,4 µg/m³,Excellent,5,1 µg/m³
+2024-06-12 17:18:24.719221+07:00,Đà Nẵng,Đà Nẵng,33°C,0.0,58%,58% (Extremely Humid),↔ 1006 mb,30%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:18:27.278833+07:00,Đắk Lắk,Bản Ae Lai,31°C,0.4,58%,58% (Extremely Humid),↔ 1012 mb,10%,24 km,30,Fair,Fair,30,8 µg/m³,Excellent,19,58 µg/m³,Excellent,18,14 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:18:29.775753+07:00,Đắk Lắk,Bản Ay Rieng,29°C,0.1,65%,65% (Very Humid),↔ 1012 mb,8%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,56 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:18:32.324741+07:00,Đắk Lắk,Bản Ðôn,32°C,0.9,64%,64% (Extremely Humid),↔ 1012 mb,10%,24 km,26,Fair,Fair,26,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:18:34.877703+07:00,Đắk Lắk,Bản M'drack,33°C,0.0,59%,59% (Extremely Humid),↔ 1011 mb,31%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,22,62 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:18:37.587671+07:00,Đắk Lắk,Buôn Mă,27°C,1.4,73%,73% (Very Humid),↔ 1013 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,15 µg/m³,Excellent,18,55 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:18:40.338512+07:00,Đắk Lắk,Buôn Ma Thuột,29°C,1.3,70%,70% (Extremely Humid),↓ 1012 mb,10%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,17,52 µg/m³,Excellent,16,12 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:18:42.918577+07:00,Đắk Lắk,Buôn Mrông,29°C,0.1,65%,65% (Very Humid),↔ 1012 mb,8%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,56 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:18:45.480844+07:00,Đắk Lắk,Buôn Phoke,29°C,1.5,79%,79% (Extremely Humid),↓ 1013 mb,30%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,17,52 µg/m³,Excellent,17,13 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:18:48.435734+07:00,Đắk Lắk,Buôn Ya Soup,32°C,0.9,64%,64% (Extremely Humid),↔ 1012 mb,10%,24 km,26,Fair,Fair,26,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:18:51.413324+07:00,Đắk Lắk,Nông Trại,29°C,0.0,67%,67% (Extremely Humid),↓ 1012 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,18,53 µg/m³,Excellent,17,13 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:18:53.941035+07:00,Đắk Lắk,Quảng Nhiêu,29°C,1.3,70%,70% (Extremely Humid),↓ 1012 mb,10%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,17,52 µg/m³,Excellent,16,12 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:18:56.580835+07:00,Đắk Lắk,Xã Thọ Thành,29°C,1.3,70%,70% (Extremely Humid),↓ 1012 mb,10%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,17,52 µg/m³,Excellent,16,12 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:18:59.862136+07:00,Đắk Nông,Ấp Bích Son,28°C,1.2,78%,78% (Extremely Humid),↓ 1013 mb,31%,24 km,30,Fair,Fair,30,8 µg/m³,Excellent,19,14 µg/m³,Excellent,17,52 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:19:02.727286+07:00,Đắk Nông,Duc Lao,27°C,1.9,75%,75% (Extremely Humid),↓ 1013 mb,20%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,18,13 µg/m³,Excellent,17,51 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:19:05.318028+07:00,Đắk Nông,Ðức Minh,27°C,1.9,75%,75% (Extremely Humid),↓ 1013 mb,20%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,18,13 µg/m³,Excellent,17,51 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:19:08.073769+07:00,Đắk Nông,Gia Nghĩa,27°C,1.3,82%,82% (Extremely Humid),↓ 1013 mb,11%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,18,14 µg/m³,Excellent,17,51 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:19:10.534812+07:00,Điện Biên,Điện Biên,28°C,4.6,76%,76% (Extremely Humid),↔ 1010 mb,30%,24 km,8,Excellent,Excellent,8,25 µg/m³,Excellent,8,6 µg/m³,Excellent,4,1 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:19:13.148335+07:00,Đồng Nai,Ấp Tham Thiện,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:15.824050+07:00,Đồng Nai,Biên Hòa,32°C,0.8,70%,70% (Dangerously Humid),↔ 1012 mb,30%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,20,15 µg/m³,Excellent,15,45 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:18.655466+07:00,Đồng Nai,Cam Mỹ,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:21.307598+07:00,Đồng Nai,Cam Mỹ,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:23.920124+07:00,Đồng Nai,Đông Sài,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:26.649780+07:00,Đồng Nai,Phu Giáo,32°C,0.5,66%,66% (Extremely Humid),↔ 1008 mb,31%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,16,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:19:29.496331+07:00,Đồng Nai,Xã Gia Kiêm,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:32.473320+07:00,Đồng Nai,Xã Phương Lâm,31°C,0.4,67%,67% (Extremely Humid),↔ 1012 mb,3%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,15 µg/m³,Excellent,17,51 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:19:35.166698+07:00,Đồng Nai,Xã Võ Đắt,31°C,0.8,68%,68% (Extremely Humid),↔ 1012 mb,11%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,17 µg/m³,Excellent,18,52 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:19:38.737798+07:00,Đồng Nai,Xuân Lộc,32°C,0.8,67%,67% (Extremely Humid),↔ 1008 mb,11%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,21,16 µg/m³,Excellent,16,47 µg/m³,Excellent,10,10 µg/m³
+2024-06-12 17:19:41.397716+07:00,Đồng Tháp,Cao Lãnh,31°C,0.0,74%,74% (Dangerously Humid),↔ 1012 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:19:43.748153+07:00,Đồng Tháp,Sa Đéc,30°C,0.9,75%,75% (Extremely Humid),↔ 1012 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:19:46.618801+07:00,Gia Lai,A Yun Pa,32°C,0.0,60%,60% (Extremely Humid),↔ 1011 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,60 µg/m³,Excellent,19,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:19:49.777336+07:00,Gia Lai,An Khê,33°C,0.0,53%,53% (Very Humid),↔ 1011 mb,10%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,21,61 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:19:52.437671+07:00,Gia Lai,Bản Bat,32°C,0.0,60%,60% (Extremely Humid),↔ 1011 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,60 µg/m³,Excellent,19,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:19:55.064376+07:00,Gia Lai,Ban Xã Thu,32°C,0.0,60%,60% (Extremely Humid),↔ 1011 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,20,60 µg/m³,Excellent,19,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:19:57.412070+07:00,Gia Lai,De Pouang,35°C,0.0,49%,49% (Extremely Humid),↓ 1010 mb,1%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,63 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:00.391353+07:00,Gia Lai,Dinh Ðiền Dak Quon,30°C,0.0,61%,61% (Very Humid),↔ 1011 mb,11%,24 km,30,Fair,Fair,30,9 µg/m³,Fair,20,59 µg/m³,Excellent,18,14 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:02.820120+07:00,Gia Lai,Phú Nhơn,31°C,1.0,62%,62% (Extremely Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,54 µg/m³,Excellent,16,12 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:05.162407+07:00,Gia Lai,Plei Doch,31°C,2.6,68%,68% (Extremely Humid),↓ 1012 mb,15%,21 km,26,Fair,Fair,26,7 µg/m³,Excellent,18,52 µg/m³,Excellent,14,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:07.702069+07:00,Gia Lai,Plei Ken Ngo,28°C,1.2,68%,68% (Very Humid),↓ 1012 mb,3%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:10.629205+07:00,Gia Lai,Plei Khoie,31°C,1.0,62%,62% (Extremely Humid),↔ 1012 mb,11%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,18,54 µg/m³,Excellent,16,12 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:13.028981+07:00,Gia Lai,Plei Klane Kla,28°C,1.2,68%,68% (Very Humid),↓ 1012 mb,3%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:15.518909+07:00,Gia Lai,Plei Kuel,33°C,0.0,53%,53% (Very Humid),↔ 1011 mb,10%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,21,61 µg/m³,Fair,20,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:17.834331+07:00,Gia Lai,Plei Morr,30°C,1.3,68%,68% (Extremely Humid),↓ 1012 mb,11%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,54 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:20.113900+07:00,Gia Lai,Plei Rongol Dogrong,29°C,2.4,68%,68% (Extremely Humid),↔ 1012 mb,11%,23 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:22.502263+07:00,Gia Lai,Pleiku,28°C,1.2,68%,68% (Very Humid),↓ 1012 mb,3%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:24.912385+07:00,Gia Lai,Thăng Ðức,31°C,1.2,66%,66% (Extremely Humid),↔ 1012 mb,11%,24 km,26,Fair,Fair,26,7 µg/m³,Excellent,17,52 µg/m³,Excellent,14,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:27.457927+07:00,Gia Lai,Xuong Kuang,29°C,2.4,68%,68% (Extremely Humid),↔ 1012 mb,11%,23 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,52 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:20:29.851695+07:00,Hà Giang,Hà Giang,31°C,3.1,82%,82% (Dangerously Humid),↔ 1007 mb,50%,24 km,13,Excellent,Excellent,13,39 µg/m³,Excellent,10,7 µg/m³,Excellent,9,2 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:20:32.383152+07:00,Hà Nam,Phủ Lý,35°C,0.0,63%,63% (Dangerously Humid),↑ 1005 mb,4%,24 km,16,Excellent,Excellent,16,4 µg/m³,Excellent,15,45 µg/m³,Excellent,15,11 µg/m³,Excellent,9,9 µg/m³
+2024-06-12 17:20:34.724794+07:00,Hà Nam,Tao Thôn,34°C,0.0,65%,65% (Dangerously Humid),↔ 1005 mb,11%,24 km,23,Fair,Fair,23,6 µg/m³,Excellent,19,57 µg/m³,Excellent,16,12 µg/m³,Excellent,12,6 µg/m³
+2024-06-12 17:20:36.859458+07:00,Hà Nội,Hà Nội,35°C,0.5,61%,61% (Dangerously Humid),↔ 1002 mb,50%,24 km,29,Fair,Fair,29,72 µg/m³,Fair,25,20 µg/m³,Fair,22,6 µg/m³,Excellent,14,14 µg/m³
+2024-06-12 17:20:39.266969+07:00,Hà Tĩnh,Hà Tĩnh,35°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,76%,24 km,16,Excellent,Excellent,16,4 µg/m³,Excellent,12,37 µg/m³,Excellent,12,9 µg/m³,Excellent,9,5 µg/m³
+2024-06-12 17:20:42.030592+07:00,Hải Dương,Hải Dương,35°C,0.0,64%,64% (Dangerously Humid),↔ 1002 mb,31%,24 km,27,Fair,Fair,27,70 µg/m³,Fair,24,6 µg/m³,Fair,23,18 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:20:44.884230+07:00,Hải Phòng,Hải Phòng,32°C,0.2,78%,78% (Dangerously Humid),↔ 1005 mb,30%,24 km,23,Fair,Fair,23,6 µg/m³,Fair,22,63 µg/m³,Excellent,18,13 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:20:47.553123+07:00,Hậu Giang,Ấp Phú Nhơn,31°C,3.1,69%,69% (Extremely Humid),↔ 1012 mb,23%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,48 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:20:50.152817+07:00,Hậu Giang,Long Mỹ,33°C,0.0,60%,60% (Extremely Humid),↔ 1012 mb,10%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:20:53.639137+07:00,Hậu Giang,Rạch Gòi,31°C,0.0,67%,67% (Extremely Humid),↔ 1012 mb,11%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,49 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:20:56.353802+07:00,Hậu Giang,Vị Thanh,31°C,0.0,67%,67% (Extremely Humid),↔ 1012 mb,11%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,49 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:20:59.011608+07:00,Hồ Chí Minh,Thành phố Hồ Chí Minh,35°C,1.1,52%,52% (Extremely Humid),↓ 1008 mb,35%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,15,46 µg/m³,Excellent,8,8 µg/m³
+2024-06-12 17:21:01.831973+07:00,Hòa Bình,Hòa Bình,35°C,1.0,66%,66% (Dangerously Humid),↔ 1006 mb,76%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,8,6 µg/m³,Excellent,5,3 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:21:04.428675+07:00,Hưng Yên,Hưng Yên,34°C,0.0,65%,65% (Dangerously Humid),↔ 1005 mb,11%,24 km,23,Fair,Fair,23,6 µg/m³,Excellent,19,57 µg/m³,Excellent,16,12 µg/m³,Excellent,12,6 µg/m³
+2024-06-12 17:21:07.122168+07:00,Khánh Hòa,Ấp Đức Mỹ,29°C,0.0,69%,69% (Extremely Humid),↔ 1011 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,23,18 µg/m³,Fair,21,62 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:10.663113+07:00,Khánh Hòa,Cam Lâm,33°C,0.0,65%,65% (Extremely Humid),↔ 1011 mb,3%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,26,21 µg/m³,Fair,23,64 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:21:12.988609+07:00,Khánh Hòa,Cam Ranh,33°C,0.0,66%,66% (Dangerously Humid),↔ 1008 mb,11%,24 km,40,Fair,Fair,40,12 µg/m³,Fair,28,23 µg/m³,Fair,23,64 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:15.276776+07:00,Khánh Hòa,Diên Khánh,33°C,0.1,65%,65% (Extremely Humid),↔ 1011 mb,3%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,26,21 µg/m³,Fair,23,64 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:21:17.727983+07:00,Khánh Hòa,Khánh Sơn,30°C,1.2,72%,72% (Extremely Humid),↓ 1011 mb,30%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,27,22 µg/m³,Fair,22,63 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:20.088089+07:00,Khánh Hòa,Khánh Vĩnh,29°C,0.0,69%,69% (Extremely Humid),↔ 1011 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,23,18 µg/m³,Fair,21,62 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:22.455555+07:00,Khánh Hòa,Nha Trang,33°C,0.1,65%,65% (Extremely Humid),↔ 1011 mb,3%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,26,21 µg/m³,Fair,23,64 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:21:24.846257+07:00,Khánh Hòa,Ninh Hòa,29°C,0.0,69%,69% (Extremely Humid),↔ 1011 mb,0%,24 km,35,Fair,Fair,35,10 µg/m³,Fair,23,18 µg/m³,Fair,21,62 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:27.346233+07:00,Khánh Hòa,Ninh Mã,28°C,0.9,73%,73% (Extremely Humid),↔ 1010 mb,1%,24 km,38,Fair,Fair,38,11 µg/m³,Fair,24,65 µg/m³,Fair,24,19 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:21:30.267243+07:00,Khánh Hòa,Ninh Phước,33°C,0.1,65%,65% (Extremely Humid),↔ 1011 mb,3%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,26,21 µg/m³,Fair,23,64 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:21:32.775207+07:00,Khánh Hòa,Vạn Ninh,33°C,0.0,59%,59% (Extremely Humid),↔ 1011 mb,31%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,22,62 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:21:35.571955+07:00,Khánh Hòa,Xóm Mỹ Ca,32°C,0.0,69%,69% (Dangerously Humid),↔ 1011 mb,11%,24 km,40,Fair,Fair,40,12 µg/m³,Fair,28,23 µg/m³,Fair,23,64 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:21:38.252681+07:00,Kiến Giang,An Biên,32°C,0.0,67%,67% (Dangerously Humid),↑ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,50 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:21:40.817071+07:00,Kiến Giang,Ấp Lục,32°C,0.0,67%,67% (Dangerously Humid),↑ 1012 mb,0%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,50 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:21:43.554926+07:00,Kiến Giang,Châu Thành,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,48 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:21:46.116806+07:00,Kiến Giang,Hà Tiên,32°C,3.2,70%,70% (Dangerously Humid),↔ 1012 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:21:48.614554+07:00,Kiến Giang,Phú Quốc,31°C,2.5,77%,77% (Dangerously Humid),↑ 1013 mb,50%,24 km,28,Fair,Fair,28,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,47 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:21:51.578621+07:00,Kiến Giang,Rạch Giá,31°C,0.0,75%,75% (Dangerously Humid),↔ 1012 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,48 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:21:54.305481+07:00,Kiến Giang,Xóm Ba Trại,32°C,3.2,70%,70% (Dangerously Humid),↔ 1012 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,46 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:21:57.053349+07:00,Kon Tum,Kon Tum,30°C,0.7,68%,68% (Extremely Humid),↓ 1012 mb,11%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,54 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:22:00.034581+07:00,Lai Châu,Lai Châu,29°C,4.4,82%,82% (Dangerously Humid),↑ 1010 mb,90%,24 km,7,Excellent,Excellent,7,5 µg/m³,Excellent,6,19 µg/m³,Excellent,3,1 µg/m³,Excellent,2,0 µg/m³
+2024-06-12 17:22:03.589246+07:00,Lâm Đồng,Ấp Tân Mỹ,27°C,0.5,71%,71% (Very Humid),↓ 1013 mb,11%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,22,17 µg/m³,Excellent,19,57 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:22:06.505691+07:00,Lâm Đồng,Ấp Thánh Hương,27°C,0.0,70%,70% (Very Humid),↓ 1013 mb,0%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,21,16 µg/m³,Excellent,18,54 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:22:08.907297+07:00,Lâm Đồng,Đà Lạt,23°C,0.2,80%,80% (Very Humid),↔ 1014 mb,76%,24 km,33,Fair,Fair,33,10 µg/m³,Fair,22,17 µg/m³,Excellent,19,56 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:22:11.413790+07:00,Lâm Đồng,Di Linh,26°C,0.8,69%,69% (Very Humid),↔ 1013 mb,10%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,22,17 µg/m³,Excellent,19,55 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:22:13.968240+07:00,Lâm Đồng,Ðong Krola,28°C,1.0,74%,74% (Extremely Humid),↓ 1013 mb,10%,24 km,32,Fair,Fair,32,9 µg/m³,Fair,20,15 µg/m³,Excellent,18,54 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:22:16.599499+07:00,Lâm Đồng,Phú Hội,27°C,0.5,71%,71% (Very Humid),↓ 1013 mb,11%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,22,17 µg/m³,Excellent,19,57 µg/m³,Excellent,3,2 µg/m³
+2024-06-12 17:22:18.880079+07:00,Lạng Sơn,Lạng Sơn,32°C,1.2,71%,71% (Dangerously Humid),↔ 1006 mb,50%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,26,21 µg/m³,Fair,21,61 µg/m³,Excellent,19,19 µg/m³
+2024-06-12 17:22:22.182527+07:00,Lào Cai,Lào Cai,32°C,0.5,66%,66% (Extremely Humid),↔ 1008 mb,31%,24 km,10,Excellent,Excellent,10,29 µg/m³,Excellent,5,3 µg/m³,Excellent,4,3 µg/m³,Excellent,4,1 µg/m³
+2024-06-12 17:22:24.677550+07:00,Long An,Ấp Bắc,30°C,0.9,75%,75% (Extremely Humid),↔ 1012 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:22:27.259410+07:00,Long An,Ấp Bình Châu,33°C,0.0,62%,62% (Extremely Humid),↑ 1012 mb,30%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,13 µg/m³,Excellent,14,43 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:22:29.892604+07:00,Long An,Ấp Cả Hoản,33°C,1.1,63%,63% (Extremely Humid),↔ 1008 mb,50%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,13 µg/m³,Excellent,14,43 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:22:32.634933+07:00,Long An,Ấp Mới,32°C,0.2,68%,68% (Dangerously Humid),↔ 1008 mb,10%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,44 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:22:35.246811+07:00,Long An,Bình Phước,31°C,0.0,70%,70% (Extremely Humid),↔ 1008 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:22:37.844973+07:00,Long An,Câ`n Ðuo´c,34°C,2.1,56%,56% (Extremely Humid),↔ 1008 mb,30%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:22:40.169660+07:00,Long An,Cần Giuộc,34°C,2.1,56%,56% (Extremely Humid),↔ 1008 mb,30%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:22:42.442952+07:00,Long An,Hậu Nghĩa,32°C,0.2,68%,68% (Dangerously Humid),↔ 1008 mb,10%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,19,14 µg/m³,Excellent,15,44 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:22:44.785437+07:00,Long An,Tân An,31°C,0.0,70%,70% (Extremely Humid),↔ 1008 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:22:47.457309+07:00,Long An,Thủ Thừa,31°C,0.0,70%,70% (Extremely Humid),↔ 1008 mb,10%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:22:50.502781+07:00,Nam Định,Nam Định,34°C,0.0,65%,65% (Dangerously Humid),↔ 1005 mb,11%,24 km,23,Fair,Fair,23,6 µg/m³,Excellent,19,57 µg/m³,Excellent,16,12 µg/m³,Excellent,12,6 µg/m³
+2024-06-12 17:22:53.030819+07:00,Nghệ An,Bản Cha Hang,34°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,31%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:22:55.635285+07:00,Nghệ An,Bản Chiềng,30°C,0.8,69%,69% (Extremely Humid),↑ 1009 mb,10%,24 km,8,Excellent,Excellent,8,24 µg/m³,Excellent,7,6 µg/m³,Excellent,3,1 µg/m³,Excellent,1,120 µg/m³
+2024-06-12 17:22:58.546541+07:00,Nghệ An,Bản Kỏ Ôi,31°C,1.7,67%,67% (Extremely Humid),↔ 1010 mb,11%,24 km,9,Excellent,Excellent,9,26 µg/m³,Excellent,6,4 µg/m³,Excellent,3,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:23:01.235152+07:00,Nghệ An,Bản Mông,33°C,0.0,61%,61% (Extremely Humid),↔ 1007 mb,10%,24 km,11,Excellent,Excellent,11,8 µg/m³,Excellent,10,29 µg/m³,Excellent,3,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:04.205122+07:00,Nghệ An,Bản Na Ca,31°C,0.4,64%,64% (Extremely Humid),↔ 1009 mb,30%,24 km,33,Fair,Fair,33,9 µg/m³,Excellent,16,12 µg/m³,Excellent,12,35 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:23:06.738291+07:00,Nghệ An,Bích Thị,35°C,0.0,54%,54% (Extremely Humid),↔ 1006 mb,31%,24 km,34,Fair,Fair,34,10 µg/m³,Excellent,19,14 µg/m³,Excellent,14,43 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:23:09.741949+07:00,Nghệ An,Canh Tráp,33°C,1.7,62%,62% (Extremely Humid),↔ 1009 mb,11%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,5,4 µg/m³,Excellent,3,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:23:12.561052+07:00,Nghệ An,Dương Long,34°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,31%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:14.879044+07:00,Nghệ An,Kỳ Sơn,31°C,1.7,67%,67% (Extremely Humid),↔ 1010 mb,11%,24 km,9,Excellent,Excellent,9,26 µg/m³,Excellent,6,4 µg/m³,Excellent,3,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:23:17.585937+07:00,Nghệ An,Làng La,35°C,0.0,56%,56% (Extremely Humid),↔ 1006 mb,0%,24 km,11,Excellent,Excellent,11,32 µg/m³,Excellent,8,6 µg/m³,Excellent,6,2 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:23:20.355646+07:00,Nghệ An,Làng Rao,34°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,31%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:23.170486+07:00,Nghệ An,Làng Se,35°C,0.0,56%,56% (Extremely Humid),↔ 1006 mb,0%,24 km,11,Excellent,Excellent,11,32 µg/m³,Excellent,8,6 µg/m³,Excellent,6,2 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:23:26.161791+07:00,Nghệ An,Lương Khê,34°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,31%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:28.578876+07:00,Nghệ An,Mường Hin,34°C,0.0,59%,59% (Dangerously Humid),↑ 1008 mb,10%,24 km,9,Excellent,Excellent,9,28 µg/m³,Excellent,8,6 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:31.256071+07:00,Nghệ An,Mường Hinh,34°C,0.0,59%,59% (Dangerously Humid),↑ 1008 mb,10%,24 km,9,Excellent,Excellent,9,28 µg/m³,Excellent,8,6 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:33.743333+07:00,Nghệ An,Na Ac,34°C,0.0,59%,59% (Dangerously Humid),↑ 1008 mb,10%,24 km,9,Excellent,Excellent,9,28 µg/m³,Excellent,8,6 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:36.240448+07:00,Nghệ An,Nghĩa Đàn,35°C,0.0,56%,56% (Extremely Humid),↔ 1006 mb,0%,24 km,11,Excellent,Excellent,11,32 µg/m³,Excellent,8,6 µg/m³,Excellent,6,2 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:23:38.724868+07:00,Nghệ An,Phlen Loung,30°C,0.8,69%,69% (Extremely Humid),↑ 1009 mb,10%,24 km,8,Excellent,Excellent,8,24 µg/m³,Excellent,7,6 µg/m³,Excellent,3,1 µg/m³,Excellent,1,120 µg/m³
+2024-06-12 17:23:41.502772+07:00,Nghệ An,Phúc Thành,35°C,0.0,56%,56% (Extremely Humid),↑ 1006 mb,3%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,6,3 µg/m³,Excellent,6,2 µg/m³
+2024-06-12 17:23:44.105545+07:00,Nghệ An,Quí Châu,34°C,0.0,59%,59% (Dangerously Humid),↑ 1008 mb,10%,24 km,9,Excellent,Excellent,9,28 µg/m³,Excellent,8,6 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:46.280091+07:00,Nghệ An,Tam Lê,35°C,0.0,56%,56% (Extremely Humid),↔ 1006 mb,0%,24 km,11,Excellent,Excellent,11,32 µg/m³,Excellent,8,6 µg/m³,Excellent,6,2 µg/m³,Excellent,5,3 µg/m³
+2024-06-12 17:23:48.667804+07:00,Nghệ An,Tập Phúc,35°C,0.0,56%,56% (Extremely Humid),↑ 1006 mb,3%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,6,3 µg/m³,Excellent,6,2 µg/m³
+2024-06-12 17:23:51.499288+07:00,Nghệ An,Tiên Yên,35°C,0.0,56%,56% (Extremely Humid),↑ 1006 mb,3%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,6,3 µg/m³,Excellent,6,2 µg/m³
+2024-06-12 17:23:54.192731+07:00,Nghệ An,Tri Lê,34°C,0.0,58%,58% (Extremely Humid),↔ 1007 mb,31%,24 km,9,Excellent,Excellent,9,27 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:23:56.984893+07:00,Nghệ An,Tương Dương,33°C,2.5,63%,63% (Extremely Humid),↔ 1010 mb,11%,24 km,9,Excellent,Excellent,9,28 µg/m³,Excellent,5,4 µg/m³,Excellent,4,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:23:59.810208+07:00,Nghệ An,Vinh,35°C,0.0,54%,54% (Extremely Humid),↔ 1006 mb,31%,24 km,34,Fair,Fair,34,10 µg/m³,Excellent,19,14 µg/m³,Excellent,14,43 µg/m³,Excellent,5,2 µg/m³
+2024-06-12 17:24:02.516177+07:00,Nghệ An,Vĩnh Lai,35°C,0.0,56%,56% (Extremely Humid),↑ 1006 mb,3%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,6,3 µg/m³,Excellent,6,2 µg/m³
+2024-06-12 17:24:05.035410+07:00,Nghệ An,Xa Truc,35°C,0.2,61%,61% (Dangerously Humid),↔ 1006 mb,10%,24 km,10,Excellent,Excellent,10,8 µg/m³,Excellent,9,28 µg/m³,Excellent,3,2 µg/m³,Excellent,2,148 µg/m³
+2024-06-12 17:24:08.032858+07:00,Nghệ An,Xen Con,30°C,0.5,62%,62% (Extremely Humid),↔ 1008 mb,11%,24 km,7,Excellent,Excellent,7,5 µg/m³,Excellent,6,19 µg/m³,Excellent,2,1 µg/m³,Excellent,1,129 µg/m³
+2024-06-12 17:24:11.079390+07:00,Ninh Bình,Ninh Bình,34°C,0.0,65%,65% (Dangerously Humid),↔ 1005 mb,11%,24 km,23,Fair,Fair,23,6 µg/m³,Excellent,19,57 µg/m³,Excellent,16,12 µg/m³,Excellent,12,6 µg/m³
+2024-06-12 17:24:13.907122+07:00,Ninh Thuận,An Phước,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:16.459462+07:00,Ninh Thuận,Du Long,30°C,1.2,72%,72% (Extremely Humid),↓ 1011 mb,10%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,27,22 µg/m³,Fair,22,63 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:24:19.162429+07:00,Ninh Thuận,Làng Ông,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:21.622286+07:00,Ninh Thuận,Phan Rang - Tháp Chàm,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:24.165262+07:00,Ninh Thuận,Thôn Bảo An,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:26.733406+07:00,Ninh Thuận,Thôn Ðô Vinh,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:29.027635+07:00,Ninh Thuận,Thôn Lạc Nghiệp,32°C,0.0,73%,73% (Dangerously Humid),↓ 1010 mb,10%,24 km,36,Fair,Fair,36,10 µg/m³,Fair,25,20 µg/m³,Fair,22,62 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:31.819778+07:00,Ninh Thuận,Thôn Sơn Hải,32°C,0.0,73%,73% (Dangerously Humid),↓ 1010 mb,10%,24 km,36,Fair,Fair,36,10 µg/m³,Fair,25,20 µg/m³,Fair,22,62 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:34.256581+07:00,Ninh Thuận,Thôn Sông Pha,30°C,1.2,72%,72% (Extremely Humid),↓ 1011 mb,10%,24 km,39,Fair,Fair,39,11 µg/m³,Fair,27,22 µg/m³,Fair,22,63 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:24:36.816246+07:00,Ninh Thuận,Thôn Thái An,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,31%,24 km,37,Fair,Fair,37,11 µg/m³,Fair,25,20 µg/m³,Fair,22,63 µg/m³,Excellent,4,4 µg/m³
+2024-06-12 17:24:39.471991+07:00,Phú Thọ,Phú Thọ,35°C,0.5,60%,60% (Dangerously Humid),↔ 1002 mb,11%,24 km,18,Excellent,Excellent,18,54 µg/m³,Excellent,16,4 µg/m³,Excellent,13,10 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:24:41.978289+07:00,Phú Yên,Bàn Thạch,28°C,0.9,73%,73% (Extremely Humid),↔ 1010 mb,1%,24 km,38,Fair,Fair,38,11 µg/m³,Fair,24,65 µg/m³,Fair,24,19 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:44.298164+07:00,Phú Yên,Bình Thạnh,34°C,0.0,57%,57% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:46.775464+07:00,Phú Yên,Củng Sơn,33°C,0.0,60%,60% (Extremely Humid),↔ 1011 mb,30%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,22,62 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:49.100527+07:00,Phú Yên,Dân Phú,34°C,0.0,57%,57% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:51.789836+07:00,Phú Yên,Đồng Xuân,34°C,0.0,57%,57% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:54.607172+07:00,Phú Yên,Phú Giang,34°C,0.0,57%,57% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:57.017227+07:00,Phú Yên,Phước Lãnh,34°C,0.0,57%,57% (Extremely Humid),↔ 1010 mb,0%,24 km,34,Fair,Fair,34,10 µg/m³,Fair,24,65 µg/m³,Fair,22,17 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:24:59.664542+07:00,Phú Yên,Tuy Hòa,33°C,0.0,66%,66% (Dangerously Humid),↓ 1010 mb,10%,24 km,36,Fair,Fair,36,10 µg/m³,Fair,23,65 µg/m³,Fair,23,18 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:02.295767+07:00,Quảng Bình,Chà Nòi,31°C,0.0,66%,66% (Extremely Humid),↑ 1009 mb,76%,24 km,33,Fair,Fair,33,9 µg/m³,Excellent,19,14 µg/m³,Excellent,14,43 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:25:04.683933+07:00,Quảng Bình,Chấp Lê,35°C,0.0,53%,53% (Extremely Humid),↔ 1008 mb,76%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,5,3 µg/m³,Excellent,4,1 µg/m³
+2024-06-12 17:25:07.092054+07:00,Quảng Bình,Đồng Hới,35°C,0.0,55%,55% (Extremely Humid),↔ 1008 mb,88%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,5,2 µg/m³,Excellent,5,4 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:25:09.445609+07:00,Quảng Bình,Ho Xa,35°C,0.0,53%,53% (Extremely Humid),↔ 1008 mb,76%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,5,3 µg/m³,Excellent,4,1 µg/m³
+2024-06-12 17:25:12.046310+07:00,Quảng Bình,Kiêm Long,34°C,0.0,55%,55% (Extremely Humid),↑ 1008 mb,50%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,4,3 µg/m³,Excellent,3,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:25:14.494699+07:00,Quảng Bình,Làng Mộ,34°C,0.0,56%,56% (Extremely Humid),↔ 1009 mb,76%,24 km,28,Fair,Fair,28,8 µg/m³,Excellent,17,13 µg/m³,Excellent,16,47 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:25:17.110469+07:00,Quảng Bình,Lý Nhơn Bắc,35°C,0.0,55%,55% (Extremely Humid),↔ 1008 mb,88%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,5,2 µg/m³,Excellent,5,4 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:25:19.742985+07:00,Quảng Bình,Quảng Ninh,35°C,0.0,55%,55% (Extremely Humid),↔ 1008 mb,88%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,5,2 µg/m³,Excellent,5,4 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:25:22.477761+07:00,Quảng Bình,Quảng Trạch,34°C,0.0,55%,55% (Extremely Humid),↑ 1008 mb,50%,24 km,10,Excellent,Excellent,10,30 µg/m³,Excellent,4,3 µg/m³,Excellent,3,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:25:25.310700+07:00,Quảng Bình,Thánh Lạng Xã,31°C,0.0,66%,66% (Extremely Humid),↑ 1009 mb,76%,24 km,33,Fair,Fair,33,9 µg/m³,Excellent,19,14 µg/m³,Excellent,14,43 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:25:27.864270+07:00,Quảng Bình,Xuân Bồ,35°C,0.0,53%,53% (Extremely Humid),↔ 1008 mb,76%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,7,5 µg/m³,Excellent,5,3 µg/m³,Excellent,4,1 µg/m³
+2024-06-12 17:25:30.928453+07:00,Quảng Bình,Yên Lạc,31°C,0.0,66%,66% (Extremely Humid),↑ 1009 mb,76%,24 km,33,Fair,Fair,33,9 µg/m³,Excellent,19,14 µg/m³,Excellent,14,43 µg/m³,Excellent,4,2 µg/m³
+2024-06-12 17:25:33.594687+07:00,Quảng Nam,Ai Yin Young,31°C,0.0,52%,52% (Very Humid),↔ 1010 mb,30%,24 km,27,Fair,Fair,27,8 µg/m³,Excellent,18,55 µg/m³,Excellent,16,12 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:36.044922+07:00,Quảng Nam,Bến Giang,33°C,0.0,52%,52% (Extremely Humid),↔ 1006 mb,20%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,55 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:38.337962+07:00,Quảng Nam,Điện Bàn,33°C,0.0,58%,58% (Extremely Humid),↔ 1006 mb,30%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:25:40.733108+07:00,Quảng Nam,Hà Nông Trung,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,30%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,59 µg/m³,Excellent,17,13 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:25:43.164793+07:00,Quảng Nam,Hiệp Đức,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:45.711098+07:00,Quảng Nam,Hội An,33°C,0.0,58%,58% (Extremely Humid),↔ 1006 mb,30%,16 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:25:48.286789+07:00,Quảng Nam,Khâm Đức,34°C,0.0,52%,52% (Extremely Humid),↔ 1006 mb,30%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,18,54 µg/m³,Excellent,15,11 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:51.048124+07:00,Quảng Nam,Khương Trung,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:53.556789+07:00,Quảng Nam,Phú Bình,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:25:55.812443+07:00,Quảng Nam,Phú Xuân Hạ,34°C,0.0,60%,60% (Extremely Humid),↔ 1006 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,22,63 µg/m³,Excellent,18,14 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:25:58.559195+07:00,Quảng Nam,Tam Kỳ,34°C,0.0,60%,60% (Extremely Humid),↔ 1006 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,22,63 µg/m³,Excellent,18,14 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:26:00.920803+07:00,Quảng Nam,Thăng Bình,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:26:03.358066+07:00,Quảng Nam,Thôn Hai,34°C,0.0,60%,60% (Extremely Humid),↔ 1006 mb,10%,24 km,31,Fair,Fair,31,9 µg/m³,Fair,22,63 µg/m³,Excellent,18,14 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:26:06.136940+07:00,Quảng Nam,Thượng Đức,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,31%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,59 µg/m³,Excellent,17,13 µg/m³,Excellent,3,3 µg/m³
+2024-06-12 17:26:08.843003+07:00,Quảng Nam,Tiên Phước,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:26:11.350387+07:00,Quảng Nam,Trà Mi,31°C,0.0,67%,67% (Extremely Humid),↔ 1006 mb,0%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,60 µg/m³,Excellent,17,13 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:26:14.250172+07:00,Quảng Ngãi,Quảng Ngãi,34°C,0.0,61%,61% (Dangerously Humid),↔ 1009 mb,0%,24 km,33,Fair,Fair,33,9 µg/m³,Fair,24,66 µg/m³,Excellent,19,15 µg/m³,Excellent,2,1 µg/m³
+2024-06-12 17:26:16.802764+07:00,Quảng Ninh,Cẩm Phả,31°C,1.0,75%,75% (Dangerously Humid),↔ 1006 mb,30%,24 km,18,Excellent,Excellent,18,5 µg/m³,Excellent,17,50 µg/m³,Excellent,16,12 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:19.382839+07:00,Quảng Ninh,Ðầm Hà,31°C,18.1,77%,77% (Dangerously Humid),↔ 1006 mb,76%,24 km,14,Excellent,Excellent,14,14 µg/m³,Excellent,13,9 µg/m³,Excellent,11,34 µg/m³,Excellent,9,2 µg/m³
+2024-06-12 17:26:22.044964+07:00,Quảng Ninh,Ðông Triều,35°C,0.0,64%,64% (Dangerously Humid),↔ 1002 mb,30%,24 km,27,Fair,Fair,27,70 µg/m³,Fair,24,6 µg/m³,Fair,23,18 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:24.706869+07:00,Quảng Ninh,Đồng Vang,31°C,1.0,75%,75% (Dangerously Humid),↔ 1006 mb,30%,24 km,18,Excellent,Excellent,18,5 µg/m³,Excellent,17,50 µg/m³,Excellent,16,12 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:27.292114+07:00,Quảng Ninh,Hà Đông,31°C,1.0,75%,75% (Dangerously Humid),↔ 1006 mb,30%,24 km,18,Excellent,Excellent,18,5 µg/m³,Excellent,17,50 µg/m³,Excellent,16,12 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:29.625259+07:00,Quảng Ninh,Hạ Long,31°C,1.0,75%,75% (Dangerously Humid),↔ 1006 mb,30%,24 km,18,Excellent,Excellent,18,5 µg/m³,Excellent,17,50 µg/m³,Excellent,16,12 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:32.207657+07:00,Quảng Ninh,Kê Phong,31°C,18.1,77%,77% (Dangerously Humid),↔ 1006 mb,76%,24 km,14,Excellent,Excellent,14,14 µg/m³,Excellent,13,9 µg/m³,Excellent,11,34 µg/m³,Excellent,9,2 µg/m³
+2024-06-12 17:26:34.623457+07:00,Quảng Ninh,Móng Cái,30°C,1.3,84%,84% (Dangerously Humid),↔ 1006 mb,76%,24 km,17,Excellent,Excellent,17,4 µg/m³,Excellent,15,11 µg/m³,Excellent,13,39 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:26:37.202599+07:00,Quảng Ninh,Mông Dương,31°C,1.0,75%,75% (Dangerously Humid),↔ 1006 mb,30%,24 km,18,Excellent,Excellent,18,5 µg/m³,Excellent,17,50 µg/m³,Excellent,16,12 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:39.859953+07:00,Quảng Ninh,Na Thiêm,31°C,2.9,73%,73% (Dangerously Humid),↓ 1006 mb,76%,23 km,17,Excellent,Excellent,17,17 µg/m³,Excellent,13,39 µg/m³,Excellent,13,10 µg/m³,Excellent,7,2 µg/m³
+2024-06-12 17:26:43.318019+07:00,Quảng Ninh,Quảng Hà,31°C,2.9,73%,73% (Dangerously Humid),↓ 1006 mb,76%,23 km,17,Excellent,Excellent,17,17 µg/m³,Excellent,13,39 µg/m³,Excellent,13,10 µg/m³,Excellent,7,2 µg/m³
+2024-06-12 17:26:45.883668+07:00,Quảng Ninh,Quảng Yên,32°C,0.2,78%,78% (Dangerously Humid),↔ 1005 mb,30%,24 km,23,Fair,Fair,23,6 µg/m³,Fair,22,63 µg/m³,Excellent,18,13 µg/m³,Excellent,16,16 µg/m³
+2024-06-12 17:26:49.212875+07:00,Quảng Ninh,Than Poun,30°C,0.0,87%,87% (Dangerously Humid),↔ 1006 mb,99%,16 km,17,Excellent,Excellent,17,4 µg/m³,Excellent,15,11 µg/m³,Excellent,13,39 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:26:51.862072+07:00,Quảng Ninh,Uông Bí,32°C,0.5,67%,67% (Dangerously Humid),↔ 1005 mb,31%,24 km,23,Fair,Fair,23,64 µg/m³,Fair,21,5 µg/m³,Excellent,19,14 µg/m³,Excellent,19,19 µg/m³
+2024-06-12 17:26:54.475920+07:00,Quảng Ninh,Vàng Danh,32°C,0.5,67%,67% (Dangerously Humid),↔ 1005 mb,31%,24 km,23,Fair,Fair,23,64 µg/m³,Fair,21,5 µg/m³,Excellent,19,14 µg/m³,Excellent,19,19 µg/m³
+2024-06-12 17:26:57.202764+07:00,Quảng Trị,Quảng Trị,35°C,0.0,52%,52% (Extremely Humid),↔ 1009 mb,39%,24 km,10,Excellent,Excellent,10,29 µg/m³,Excellent,5,3 µg/m³,Excellent,5,4 µg/m³,Excellent,4,1 µg/m³
+2024-06-12 17:27:00.321690+07:00,Sóc Trăng,Sóc Trăng,31°C,0.0,67%,67% (Extremely Humid),↔ 1012 mb,2%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,52 µg/m³,Excellent,5,5 µg/m³
+2024-06-12 17:27:02.925569+07:00,Sơn La,Sơn La,29°C,3.6,65%,65% (Very Humid),↔ 1009 mb,76%,24 km,8,Excellent,Excellent,8,25 µg/m³,Excellent,6,5 µg/m³,Excellent,4,2 µg/m³,Excellent,1,0 µg/m³
+2024-06-12 17:27:05.864120+07:00,Tây Ninh,Tây Ninh,32°C,0.0,66%,66% (Extremely Humid),↔ 1008 mb,10%,24 km,27,Fair,Fair,27,7 µg/m³,Excellent,17,13 µg/m³,Excellent,15,44 µg/m³,Excellent,7,4 µg/m³
+2024-06-12 17:27:08.597211+07:00,Thái Bình,Thái Bình,34°C,0.0,64%,64% (Dangerously Humid),↔ 1005 mb,21%,24 km,23,Fair,Fair,23,6 µg/m³,Excellent,19,57 µg/m³,Excellent,16,12 µg/m³,Excellent,12,6 µg/m³
+2024-06-12 17:27:11.286442+07:00,Thái Nguyên,Thái Nguyên,35°C,1.0,65%,65% (Dangerously Humid),↔ 1002 mb,11%,24 km,25,Fair,Fair,25,7 µg/m³,Fair,24,66 µg/m³,Fair,23,18 µg/m³,Excellent,9,9 µg/m³
+2024-06-12 17:27:13.988538+07:00,Thanh Hóa,Thanh Hóa,35°C,0.0,56%,56% (Extremely Humid),↔ 1005 mb,10%,24 km,16,Excellent,Excellent,16,4 µg/m³,Excellent,15,45 µg/m³,Excellent,13,10 µg/m³,Excellent,10,5 µg/m³
+2024-06-12 17:27:16.930573+07:00,Thừa Thiên-Huế,Huế,34°C,0.0,59%,59% (Extremely Humid),↓ 1008 mb,76%,24 km,10,Excellent,Excellent,10,8 µg/m³,Excellent,9,28 µg/m³,Excellent,9,2 µg/m³,Excellent,7,3 µg/m³
+2024-06-12 17:27:19.833909+07:00,Thừa Thiên-Huế,Hương Thủy,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,45%,24 km,11,Excellent,Excellent,11,34 µg/m³,Excellent,10,8 µg/m³,Excellent,6,3 µg/m³,Excellent,6,2 µg/m³
+2024-06-12 17:27:22.597213+07:00,Thừa Thiên-Huế,Mui Chon Dong,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,30%,24 km,16,Excellent,Excellent,16,49 µg/m³,Excellent,15,4 µg/m³,Excellent,13,10 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:27:25.408893+07:00,Thừa Thiên-Huế,Nông Trường,33°C,0.0,59%,59% (Extremely Humid),↔ 1009 mb,30%,24 km,7,Excellent,Excellent,7,22 µg/m³,Excellent,7,5 µg/m³,Excellent,3,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:27:27.885327+07:00,Thừa Thiên-Huế,Nông Trường Nam Đồng,33°C,0.0,59%,59% (Extremely Humid),↔ 1009 mb,30%,24 km,7,Excellent,Excellent,7,22 µg/m³,Excellent,7,5 µg/m³,Excellent,3,2 µg/m³,Excellent,3,1 µg/m³
+2024-06-12 17:27:30.476656+07:00,Thừa Thiên-Huế,Phú Lộc,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,30%,24 km,16,Excellent,Excellent,16,49 µg/m³,Excellent,15,4 µg/m³,Excellent,13,10 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:27:33.223887+07:00,Thừa Thiên-Huế,Thôn Phú An,34°C,0.0,61%,61% (Dangerously Humid),↔ 1006 mb,30%,24 km,16,Excellent,Excellent,16,49 µg/m³,Excellent,15,4 µg/m³,Excellent,13,10 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:27:35.960082+07:00,Tiền Giang,Bến Tranh,31°C,2.2,73%,73% (Dangerously Humid),↔ 1008 mb,11%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,49 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:38.825999+07:00,Tiền Giang,Cái Bè,30°C,0.9,75%,75% (Extremely Humid),↔ 1012 mb,6%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:27:41.587537+07:00,Tiền Giang,Cai Lậy,30°C,0.9,75%,75% (Extremely Humid),↔ 1012 mb,6%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:27:44.265838+07:00,Tiền Giang,Gò Công,31°C,0.3,76%,76% (Dangerously Humid),↔ 1008 mb,31%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,51 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:47.273468+07:00,Tiền Giang,Mỹ Tho,31°C,2.2,73%,73% (Dangerously Humid),↔ 1008 mb,11%,24 km,29,Fair,Fair,29,8 µg/m³,Fair,20,15 µg/m³,Excellent,16,49 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:50.195971+07:00,Tiền Giang,Xóm Cửa Tiểu,31°C,0.3,76%,76% (Dangerously Humid),↔ 1008 mb,31%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,51 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:52.893188+07:00,Tiền Giang,Xóm Vàm Láng,31°C,0.3,76%,76% (Dangerously Humid),↔ 1008 mb,31%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,51 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:55.667219+07:00,Trà Vinh,Trà Vinh,30°C,0.0,76%,76% (Extremely Humid),↔ 1012 mb,1%,24 km,30,Fair,Fair,30,8 µg/m³,Fair,21,16 µg/m³,Excellent,17,51 µg/m³,Excellent,6,6 µg/m³
+2024-06-12 17:27:58.509790+07:00,Tuyên Quang,Tuyên Quang,33°C,0.5,71%,71% (Dangerously Humid),↔ 1006 mb,30%,24 km,17,Excellent,Excellent,17,4 µg/m³,Excellent,15,45 µg/m³,Excellent,13,10 µg/m³,Excellent,6,3 µg/m³
+2024-06-12 17:28:01.297617+07:00,Vĩnh Long,Vĩnh Long,30°C,0.9,75%,75% (Extremely Humid),↔ 1012 mb,6%,24 km,29,Fair,Fair,29,8 µg/m³,Excellent,19,15 µg/m³,Excellent,16,47 µg/m³,Excellent,7,7 µg/m³
+2024-06-12 17:28:04.159729+07:00,Vĩnh Phúc,Phúc Yên,35°C,0.0,55%,55% (Extremely Humid),↔ 1002 mb,11%,16 km,22,Fair,Fair,22,63 µg/m³,Fair,21,16 µg/m³,Excellent,17,4 µg/m³,Excellent,11,11 µg/m³
+2024-06-12 17:28:06.688777+07:00,Vĩnh Phúc,Vĩnh Yên,35°C,0.5,61%,61% (Dangerously Humid),↔ 1002 mb,27%,24 km,18,Excellent,Excellent,18,54 µg/m³,Excellent,16,4 µg/m³,Excellent,13,10 µg/m³,Excellent,8,4 µg/m³
+2024-06-12 17:28:09.319854+07:00,Yên Bái,Yên Bái,34°C,0.5,66%,66% (Dangerously Humid),↔ 1006 mb,31%,24 km,22,Fair,Fair,22,6 µg/m³,Excellent,19,57 µg/m³,Excellent,17,13 µg/m³,Excellent,7,4 µg/m³
